@@ -70,6 +70,15 @@ text
 AES encryption is used for data sent from frontend to backend and vice versa. Both ends share the same secret key stored securely.
 
 ---
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.jpeg)
+
+![Screenshot 2](screenshots/screentshot2.jpeg)
+
+![Screenshot 3](screenshots/screenshot3.jpeg)
+
+![Screenshot 4](screenshots/screenshot4.jpeg)
 
 ## License
 
